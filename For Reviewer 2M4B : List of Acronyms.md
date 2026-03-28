@@ -15,5 +15,5 @@
 | **MR-R-E** | Medication Recommendation – Random – Easy   | Test set with random distractors; easy level                 |
 | **MR-R-M** | Medication Recommendation – Random – Medium | Test set with random distractors; medium level               |
 | **MR-R-H** | Medication Recommendation – Random – Hard   | Test set with random distractors; hard level                 |
-| **O1R**    | Off-by-One Rate                             | Metric: Counts the number of test items where the prediction set matches the gold standard size but has exactly one missing and one extra label. |
-| **OMR**    | Off-by-Many Rate                            | Metric: Prediction set matches gold standard size, but includes multiple incorrect labels; measures deviation |
+| **O1R**    | Off-by-One Rate                             | Metric: Counts the number of test items where the prediction set matches the gold standard size but has exactly one missing and one extra label |
+| **OMR**    | Off-by-Many Rate                            | Metric: Counts the number of test items where the prediction set includes multiple incorrect labels |
