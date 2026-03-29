@@ -1,4 +1,4 @@
-## Experimental Results (tokens = 8192)
+## Experimental Results (max_new_tokens = 8192)
 
 | Model | End-to-End Success Rate | Format Compliance Rate | Format-Conditioned Accuracy | Thinking Truncation Rate |
 | :--- | :---: | :---: | :---: | :---: |
